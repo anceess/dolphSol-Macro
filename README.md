@@ -1,5 +1,5 @@
 # dolphSol Macro
-### DOLPHSOL DISCORD SERVER: https://discord.gg/Y3ZmGYdr
+# DOLPHSOL DISCORD SERVER: https://discord.gg/Y3ZmGYdr
  This version of Sol's RNG macro includes many community request features. Feel free to for any new features. A work in progress by ances (noteab retired WAAAAAAAAA)
 
 
