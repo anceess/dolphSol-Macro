@@ -1,6 +1,7 @@
-# dolphSol Macro **CURRENT MACRO VERSION IS THE RECENT IMPROVEMENT MACRO, MY VERSION ISN'T OUT YET**
-# DOLPHSOL DISCORD SERVER: https://discord.gg/Y3ZmGYdr
+# dolphSol Macro
+# dolphSol Discord Server: https://discord.gg/Y3ZmGYdr
  This version of Sol's RNG macro includes many community request features. Feel free to for any new features. A work in progress by ances (noteab retired WAAAAAAAAA)
+ **CURRENT MACRO VERSION IS THE RECENT IMPROVEMENT MACRO, MY VERSION ISN'T OUT YET**
 
 
  - Automatic Aura Equipping, so you can always have an aura equipped without an animation to ensure the macro performs well
