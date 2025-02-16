@@ -31,4 +31,4 @@
 - **ances (@.ances)**
 
 # Radiant Team 
-- **noteab (for allowing me to take over Improvement-Macro**
+- **noteab (for allowing me to take over Improvement-Macro**)
