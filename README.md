@@ -11,7 +11,7 @@
  - Setting for the VIP and VIP+ gamepass to compensate for the increased WalkSpeed
  - Settings importing, useful for updates
  - Possible Abyssal Hunter / Arcane : Dark Path
- - 
+   
    
 ### This Improvement Macro also includes
  - Automatic Merchant Crafting
